@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=vaxplogs
+Comment=Flutter Application - vaxplogs
+Exec=/usr/bin/vaxplogs
+Icon=/usr/share/icons/hicolor/256x256/apps/vaxplogs.png
+Terminal=false
+Categories=Utility;Development;
